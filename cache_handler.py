@@ -1,2 +1,1 @@
 //cache handling
-import redis
